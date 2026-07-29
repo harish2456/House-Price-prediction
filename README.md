@@ -13,7 +13,7 @@ This project predicts house prices in Bengaluru using Machine Learning. It uses 
 
 ## Technologies Used
 - Python
-- - Pandas
+-  Pandas
 - NumPy
 - Scikit-learn
 - Streamlit
